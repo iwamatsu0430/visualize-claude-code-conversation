@@ -102,7 +102,7 @@ After execution, `<output-dir>/index.html` will be generated. Open this HTML fil
 
 The generated HTML includes the following features:
 
-1. **Thinking Process Display**: Click the "💭 思考過程を表示" button in Claude's messages to display internal thinking processes
+1. **Thinking Process Display**: Click the "🧠 ..." button to expand Claude's internal thinking process (hidden by default). Multiple thinking blocks are grouped together and separated by dividers
 2. **Tool Details Display**: Click on a tool name to expand input parameters and execution results
 3. **TOC Navigation**: Jump to any user message from the table of contents in the left sidebar
 4. **Message Navigation**: Navigate to previous/next messages with buttons below each user message
