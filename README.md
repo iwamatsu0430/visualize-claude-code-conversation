@@ -18,7 +18,7 @@ A tool to visualize Claude Code conversation logs (JSONL format) in an interacti
 
 ## Requirements
 
-- Go 1.25 or higher (tested with Go 1.25.4)
+- Go 1.25+
 
 ## Build
 
